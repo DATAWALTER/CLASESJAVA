@@ -158,8 +158,8 @@ public class Main {
     }
 
     public static void opcion06() {
-        System.out.print("\nOPCION 06");
-        System.out.print("\n=========");
+        System.out.print("\nOPCION 06: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX");
+        System.out.print("\n=============================================\n");
     }
 
     public static void opcion07() {
